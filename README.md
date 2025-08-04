@@ -37,9 +37,21 @@ Sou movido por desafios e acredito na evolução constante — tanto técnica qu
 
 ---
 
-## 📈 GitHub Stats
+<div align="center">
 
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardofernandes&show_icons=true&theme=radical&count_private=true)
+<!-- Stats -->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+  alt="GitHub Stats"
+/>
+
+<!-- Linguagens mais usadas -->
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=dracula"
+  alt="Linguagens mais usadas"
+/>
+
+</div>
 
 ---
 
