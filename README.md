@@ -1,7 +1,7 @@
 <!-- HERO -->
 <div align="center">
   <h1>👋 Olá! Sou <strong>Leonardo Fernandes</strong></h1>
-  <p><strong>Tech Lead</strong> · <strong>Full-Stack Developer</strong> · Liderança Técnica · Produto · Entrega Contínua de Valor</p>
+  <p><strong>Tech Lead</strong> · <strong>Full-Stack Developer</strong> · Liderança técnica · Produto · Entrega contínua de valor</p>
 
   <p>
     <a href="https://leofernandes.com.br" target="_blank">
