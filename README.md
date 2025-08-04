@@ -40,7 +40,7 @@ Tech Lead com experiência em desenvolvimento **Full-Stack** e liderança técni
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="36" alt=".NET" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="36" alt="Docker" />
-  <img src="https://raw.githubusercontent.com/LeoFernandes210798/assets/main/cache-intersystems.png" width="36" alt="InterSystems Cache 2016" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQddarrp35ax7nrvP7I4EpJFoBQsExvyuM8hA&s" width="36" alt="InterSystems Cache 2016" />
 </p>
 
 <!-- opcional: quick bullets -->
