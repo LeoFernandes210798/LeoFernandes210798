@@ -15,7 +15,7 @@
     <a href="https://www.linkedin.com/in/leofernandes1998/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
     </a>
-    <a href="mailto:contato@leofernandes.com.br">
+    <a href="mailto:contato@leofernandes.com.br" target="_blank">
       <img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=minutemailer&logoColor=22C55E" />
     </a>
   </p>
