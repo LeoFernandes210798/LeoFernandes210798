@@ -17,7 +17,7 @@
 
 ### 🚀 Sobre mim
 Sou **Tech Lead** com experiência em desenvolvimento **Full-Stack** e liderança técnica, conectando código à experiência do usuário e aos resultados de negócio.  
-Curto resolver problemas complexos com **simplicidade, performance e escalabilidade** — e estimular a evolução do time com cultura de **aprendizado e colaboração**.
+Curto resolver problemas complexos com **simplicidade, performance e escalabilidade** e estimular a evolução do time com cultura de **aprendizado e colaboração**.
 
 > 🧠 *"Conhecimento nunca é demais — sempre há algo novo a aprender."*
 
