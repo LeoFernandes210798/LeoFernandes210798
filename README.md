@@ -90,7 +90,7 @@ No servidor a ideia é aprender e evoluir juntos — com leveza e seriedade:
 - 🤖 Bots para automações e diversão controlada  
 
 > “Aprender, crescer e transformar.” Bora?
-
+<!--
 ---
 
 ## 🧱 Linha do tempo (resumo)
@@ -106,7 +106,7 @@ No servidor a ideia é aprender e evoluir juntos — com leveza e seriedade:
 </details>
 
 ---
-
+-->
 ## 📫 Onde me encontrar
 <p align="left">
   <a href="https://www.youtube.com/@lf210798" target="_blank">
