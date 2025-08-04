@@ -40,7 +40,7 @@ Sou movido por desafios e acredito na evolução constante — tanto técnica qu
   <img height="180em"
        src="https://github-readme-stats.vercel.app/api?username=LeoFernandes210798&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
   <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoFernandes210798&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoFernandes210798&layout=compact&langs_count=8&theme=dracula&hide_border=true&count_private=true)" />
 </p>
 
 ---
