@@ -48,9 +48,9 @@ Sou movido por desafios e acredito na evolução constante — tanto técnica qu
 ## 🐍 Snake eating my commits
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/<SEU_USUARIO>/<SEU_REPO>/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/<SEU_USUARIO>/<SEU_REPO>/output/snake.svg" />
-  <img alt="Snake eating my commits" src="https://raw.githubusercontent.com/<SEU_USUARIO>/<SEU_REPO>/output/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeoFernandes210798/LeoFernandes210798/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeoFernandes210798/LeoFernandes210798/output/snake.svg" />
+  <img alt="Snake eating my commits" src="https://raw.githubusercontent.com/<SEU_USUARIO>/LeoFernandes210798/output/snake.svg" />
 </picture>
 
 
