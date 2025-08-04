@@ -33,7 +33,7 @@ Curto resolver problemas complexos com **simplicidade, performance e escalabilid
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" alt=".NET" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
-  <img src="https://raw.githubusercontent.com/LeoFernandes210798/assets/main/cache-intersystems.png" width="40" alt="InterSystems Cache 2016" />
+  <img src="https:https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFA_CgB90N-TDw48V6CtH_hbjh67Rs11ayfw&s" width="40" alt="InterSystems Cache 2016" />
 </p>
 
 ---
