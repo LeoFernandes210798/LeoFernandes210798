@@ -78,22 +78,22 @@ No servidor a ideia é aprender e evoluir juntos — com leveza e seriedade:
 
 ## 📫 Onde me encontrar
 <p align="left">
-  <a href="https://youtube.com/@leonardofernandes" target="_blank">
+  <a href="https://www.youtube.com/@lf210798" target="_blank">
     <img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://instagram.com/seuusuario" target="_blank">
+  <a href="https://instagram.com/leofernanddes" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://twitch.tv/seuusuario" target="_blank">
+  <a href="https://www.twitch.tv/lfernandes1998" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch" />
   </a>
   <a href="https://discord.gg/AsJPG7MR" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="mailto:leo@email.com.br" target="_blank">
+  <a href="mailto:contato@leofernandes.com.br" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
-  <a href="https://www.linkedin.com/in/leonardofernandes" target="_blank">
+  <a href="https://www.linkedin.com/in/leofernandes1998/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
