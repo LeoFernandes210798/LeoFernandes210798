@@ -85,7 +85,7 @@ Sempre em busca de **aprender mais**, me atualizo constantemente em arquitetura 
 ## 🎮 Comunidade no Discord
 **Vem fazer parte:** https://discord.gg/AsJPG7MR
 
-No servidor a ideia é aprender e evoluir juntos — com leveza e seriedade:
+No servidor a ideia é aprender e evoluir juntos com leveza e seriedade:
 - 🔴 *Lives* e estudos em grupo / *pair programming*  
 - 🧭 Mentoria e carreira  
 - 💼 Vagas e oportunidades  
