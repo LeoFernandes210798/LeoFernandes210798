@@ -1,7 +1,5 @@
 <!-- HERO -->
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/60993180?v=4" width="120" height="120" style="border-radius:50%;" alt="Avatar do Leonardo" />
-
   <h1>👋 Olá, eu sou o <strong>Leonardo Fernandes</strong></h1>
   <p>
     Tech Lead · Full-Stack · Liderança técnica · Produto · Entrega de valor
