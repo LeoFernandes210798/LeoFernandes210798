@@ -31,23 +31,23 @@ Sou movido por desafios e acredito na evolução constante — tanto técnica qu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" alt=".NET" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs09k-9Ye7j8kQzwv7E1LUXvz4HIlKPA3aQw&s" width="40" alt="InterSystems Cache 2016" />
+  <img src="https://raw.githubusercontent.com/LeoFernandes210798/assets/main/cache-intersystems.png" width="40" alt="InterSystems Cache 2016" />
 </p>
 
-
 ---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=LeoFernandes210798&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoFernandes210798&layout=compact&langs_count=8&theme=dracula&hide_border=true&count_private=true)" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoFernandes210798&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoFernandes210798&layout=compact&langs_count=8&theme=dracula&hide_border=true&count_private=true" />
 </p>
 
 ---
 
 ## 🐍 Snake eating my commits
 
-![snake gif](https://github.com/LeoFernandes210798/LeoFernandes210798/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/LeoFernandes210798/LeoFernandes210798/output/github-contribution-grid-snake.svg)
 
 ---
 
