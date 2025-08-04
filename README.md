@@ -47,11 +47,13 @@ Sou movido por desafios e acredito na evolução constante — tanto técnica qu
 
 ## 🐍 Snake eating my commits
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeoFernandes210798/LeoFernandes210798/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeoFernandes210798/LeoFernandes210798/output/snake.svg" />
-  <img alt="Snake eating my commits" src="https://raw.githubusercontent.com/<SEU_USUARIO>/LeoFernandes210798/output/snake.svg" />
-</picture>
+<p align="center">
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=LeoFernandes210798&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=21600" />
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoFernandes210798&layout=compact&langs_count=8&theme=dracula&hide_border=true&cache_seconds=21600" />
+</p>
+
 
 
 ---
