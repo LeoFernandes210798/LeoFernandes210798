@@ -1,7 +1,7 @@
 <!-- Banner / Header -->
 <h1 align="center">👋 Olá, eu sou o <strong>Leonardo Fernandes</strong></h1>
 <p align="center">
-  Tech Lead • Full-Stack • Liderança técnica • Produto e UX • Entrega de valor
+  Tech Lead • Full-Stack • Liderança técnica • Produto • Entrega de valor
 </p>
 
 <p align="center">
