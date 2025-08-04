@@ -6,6 +6,16 @@ Sou movido por desafios e acredito na evolução constante — tanto técnica qu
 
 ---
 
+## 🌐 Meu site pessoal
+
+<a href="https://leofernandes.com.br" target="_blank">
+  <img src="https://img.shields.io/badge/Acessar%20o%20site-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Site Leonardo Fernandes" />
+</a>
+
+> Conheça meu portfólio completo, veja meus projetos, tech stack, experiências, contatos e propostas sob medida para empresas e parceiros.
+
+---
+
 ## 🧠 "Conhecimento nunca é demais — sempre há algo novo a aprender."
 
 ---
