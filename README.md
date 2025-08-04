@@ -47,7 +47,7 @@ Sou movido por desafios e acredito na evolução constante — tanto técnica qu
 
 ## 🐍 Snake eating my commits
 
-![snake gif](https://github.com/leonardofernandes/leonardofernandes/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/LeoFernandes210798/LeoFernandes210798/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
