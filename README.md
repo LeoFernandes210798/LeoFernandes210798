@@ -2,7 +2,7 @@
 
 Sou **Tech Lead** com sólida experiência em desenvolvimento **Full-Stack**, liderança técnica e foco em entregar valor real com tecnologia. Tenho um perfil **mão na massa**, com uma visão estratégica que conecta o código à experiência do usuário e aos resultados do negócio.
 
-Sou movido por desafios e acredito na evolução constante — tanto técnica quanto humana. Gosto de criar soluções com performance, escalabilidade e simplicidade, sempre incentivando o crescimento do time e a cultura de compartilhamento de conhecimento.
+Sou movido por desafios e acredito na evolução constante, tanto técnica quanto humana. Gosto de criar soluções com performance, escalabilidade e simplicidade, sempre incentivando o crescimento do time e a cultura de compartilhamento de conhecimento.
 
 ---
 
