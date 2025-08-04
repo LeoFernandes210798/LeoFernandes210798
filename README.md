@@ -1,25 +1,24 @@
 <!-- HERO -->
 <div align="center">
-  <h1>👋 Olá, eu sou o <strong>Leonardo Fernandes</strong></h1>
-  <p>
-    Tech Lead · Full-Stack · Liderança técnica · Produto · Entrega de valor
-  </p>
+  <h1>👋 Olá! Sou <strong>Leonardo Fernandes</strong></h1>
+  <p><strong>Tech Lead</strong> · <strong>Full-Stack Developer</strong> · Liderança Técnica · Produto · Entrega Contínua de Valor</p>
 
   <p>
     <a href="https://leofernandes.com.br" target="_blank">
-      <img src="https://img.shields.io/badge/Acessar%20o%20site-0B1220?style=for-the-badge&logo=google-chrome&logoColor=38BDF8" />
+      <img src="https://img.shields.io/badge/Meu%20Portfólio-0B1220?style=for-the-badge&logo=google-chrome&logoColor=38BDF8" alt="Site pessoal" />
     </a>
     <a href="https://discord.gg/AsJPG7MR" target="_blank">
-      <img src="https://img.shields.io/badge/Comunidade%20no%20Discord-0B1220?style=for-the-badge&logo=discord&logoColor=5865F2" />
+      <img src="https://img.shields.io/badge/Comunidade%20no%20Discord-0B1220?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord" />
     </a>
     <a href="https://www.linkedin.com/in/leofernandes1998/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+      <img src="https://img.shields.io/badge/Conecte-se%20no%20LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
     </a>
     <a href="mailto:contato@leofernandes.com.br" target="_blank">
-      <img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=minutemailer&logoColor=22C55E" />
+      <img src="https://img.shields.io/badge/Contato%20por%20Email-0B1220?style=for-the-badge&logo=minutemailer&logoColor=22C55E" alt="Email" />
     </a>
   </p>
 </div>
+
 
 ---
 
