@@ -51,15 +51,12 @@ Sempre em busca de **aprender mais**, me atualizo constantemente em arquitetura 
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQddarrp35ax7nrvP7I4EpJFoBQsExvyuM8hA&s" width="36" alt="InterSystems Cache 2016" />
 </p>
 
-<!-- opcional: quick bullets -->
-<p>
-  • Arquitetura segura e escalável · 
-  • DX/CI-CD · 
-  • Observabilidade · 
-  • Integrações robustas · 
-  • Mentoria e padronização
-</p>
-
+- ✅ Arquiteturas escaláveis e seguras  
+- 🚀 CI/CD e automações eficientes  
+- 📈 Observabilidade, rastreamento e resiliência  
+- 🔗 Integrações robustas e desacopladas  
+- 👥 Mentoria, cultura técnica e padronização de código
+  
 ---
 
 ## 📊 GitHub Stats
