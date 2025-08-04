@@ -24,9 +24,17 @@
 ---
 
 ## 🧭 Sobre mim
-Tech Lead com experiência em desenvolvimento **Full-Stack** e liderança técnica. Conecto decisões de engenharia à **experiência do usuário** e aos **resultados do negócio**, privilegiando **simplicidade, performance e escalabilidade** — com pessoas no centro.
 
-> 🧠 *"Conhecimento nunca é demais — sempre há algo novo a aprender."*
+Sou **Tech Lead** com forte atuação em projetos **Full-Stack**, liderando times e decisões técnicas que conectam código a resultados reais de negócio. Tenho como foco:
+
+- ✨ Criar experiências de usuário simples, intuitivas e eficazes;
+- 🚀 Garantir performance, escalabilidade e boas práticas;
+- 👥 Trabalhar com pessoas, desenvolvendo talentos e culturas saudáveis;
+- 📊 Traduzir demandas técnicas em valor estratégico para o produto.
+
+Sempre em busca de **aprender mais**, me atualizo constantemente em arquitetura de software, boas práticas de engenharia e tendências do ecossistema. Acredito no poder do conhecimento compartilhado e da melhoria contínua.
+
+> 🧠 *"Conhecimento nunca é demais — sempre há algo novo a aprender. Estagnar é opcional."*
 
 ---
 
