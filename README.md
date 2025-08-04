@@ -24,7 +24,8 @@ Sou movido por desafios e acredito na evolução constante, tanto técnica quant
 
 ## 📈 GitHub Stats
 
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardofernandes&show_icons=true&theme=radical)
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardofernandes&show_icons=true&theme=radical&count_private=true)
+
 
 ---
 
