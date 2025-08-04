@@ -2,7 +2,7 @@
 
 Sou **Tech Lead** com sólida experiência em desenvolvimento **Full-Stack**, liderança técnica e foco em entregar valor real com tecnologia. Tenho um perfil **mão na massa**, com uma visão estratégica que conecta o código à experiência do usuário e aos resultados do negócio.
 
-Sou movido por desafios e acredito na evolução constante, tanto técnica quanto humana. Gosto de criar soluções com performance, escalabilidade e simplicidade, sempre incentivando o crescimento do time e a cultura de compartilhamento de conhecimento.
+Sou movido por desafios e acredito na evolução constante — tanto técnica quanto humana. Gosto de criar soluções com performance, escalabilidade e simplicidade, sempre incentivando o crescimento do time e a cultura de compartilhamento de conhecimento.
 
 ---
 
@@ -10,15 +10,18 @@ Sou movido por desafios e acredito na evolução constante, tanto técnica quant
 
 ---
 
-## 💻 Tecnologias e ferramentas que utilizo
+## 💻 Tecnologias e ferramentas
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
-![InterSystems Cache 2016](https://img.shields.io/badge/-Cache%20Intersystems%202016-003B57?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCI+PHJlY3Qgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiBmaWxsPSIjMDAzQjU3Ii8+PC9zdmc+)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+</p>
 
 ---
 
@@ -26,17 +29,33 @@ Sou movido por desafios e acredito na evolução constante, tanto técnica quant
 
 ![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardofernandes&show_icons=true&theme=radical&count_private=true)
 
-
 ---
 
-## 🐍 Snake eating my commits (só deixar ativado)
+## 🐍 Snake eating my commits
 
 ![snake gif](https://github.com/leonardofernandes/leonardofernandes/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 📫 Como me encontrar
+## 📫 Conecte-se comigo
 
-- 🌐 [leofernandes.com.br](https://leofernandes.com.br)
-- 💼 [LinkedIn](https://www.linkedin.com/in/leonardofernandes)
-- 📬 leo@email.com.br
+<p align="left">
+  <a href="https://youtube.com/@leonardofernandes" target="_blank">
+    <img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/seuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://twitch.tv/seuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/seulink" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="mailto:leo@email.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/leonardofernandes" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
