@@ -55,8 +55,9 @@ Fundador da **[RECOTEK](https://recotek.com.br)** — consultoria tecnológica p
 ## GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LeoFernandes210798&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=21600" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoFernandes210798&layout=compact&langs_count=8&theme=dracula&hide_border=true&cache_seconds=21600" alt="Top Langs" />
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LeoFernandes210798&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoFernandes210798&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
 </div>
 
 ---
